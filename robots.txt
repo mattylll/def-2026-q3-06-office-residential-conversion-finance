@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://def-2026-q3-06-office-resident.zeabur.app/sitemap.xml
+Sitemap: https://def-2026-q3-06-office-residential-conversion-finance.zeabur.app/sitemap.xml
